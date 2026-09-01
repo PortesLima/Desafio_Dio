@@ -22,7 +22,7 @@ por meio de uma estrutura de decisão, exibir o **nível** correspondente.
 ## Saída esperada
 
 ```
-O Herói de nome {nome} está no nível de {nivel}
+O Heroi de nome Portes esta no nivel de Radiante
 ```
 
 ## Como executar
