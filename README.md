@@ -1,11 +1,11 @@
 # Desafio DIO — Classificador de Nível de Herói
 
-Projeto prático do bootcamp da [DIO](https://www.dio.me/) para praticar os fundamentos de
+Projeto prático de Lógica de Programação [DIO](https://www.dio.me/) para praticar os fundamentos de
 JavaScript: **variáveis**, **operadores**, **laços de repetição** e **estruturas de decisão**.
 
 ## Objetivo
 
-Armazenar em variáveis o Rerisson e a quantidade de **15500 (XP)** de um herói e,
+Armazenar em variáveis o **nome** e a quantidade de **experiência (XP)** de um herói e,
 por meio de uma estrutura de decisão, exibir o **nível** correspondente.
 
 | XP                         | Nível      |

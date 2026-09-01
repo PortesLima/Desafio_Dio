@@ -2,7 +2,7 @@
 // Conceitos: variaveis, operadores, lacos de repeticao e estruturas de decisao
 
 // 1) Variaveis com o nome e a experiencia (XP) do heroi
-const nomeHeroi = "Rerisson";
+const nomeHeroi = "Portes";
 const xpHeroi = 15500;
 
 // 2) Funcao que classifica o nivel de acordo com a faixa de XP
