@@ -5,7 +5,7 @@ JavaScript: **variáveis**, **operadores**, **laços de repetição** e **estrut
 
 ## Objetivo
 
-Armazenar em variáveis o **nome** e a quantidade de **experiência (XP)** de um herói e,
+Armazenar em variáveis o Rerisson e a quantidade de **15500 (XP)** de um herói e,
 por meio de uma estrutura de decisão, exibir o **nível** correspondente.
 
 | XP                         | Nível      |
